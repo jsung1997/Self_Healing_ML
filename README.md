@@ -1,6 +1,8 @@
-# Self-Healing Machine Learning: A Framework for Robust and Adaptive Models
+# Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments.
 
 This repository provides the implementation for our work on **Self-Healing Machine Learning**, which explores methods for improving the robustness and reliability of machine learning models in dynamic and unpredictable environments. Our approach employs mechanisms to detect, diagnose, and mitigate issues such as data drift, corruption, and outliers, ensuring that models remain accurate and effective over time.
+
+*Important note*. The codebase for H-LLM is intended to illustrate the key concepts in the paper. It is NOT intended to be used as a product, service, or outside of the intended viability studies. The reason is because these studies are *viability* studies, i.e. showing the fact that such adaptation is *viable* / *possible*. 
 
 ## Overview
 
